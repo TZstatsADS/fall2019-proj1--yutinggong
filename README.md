@@ -4,7 +4,7 @@
 
 <img src="figs/title1.jpeg" width="500">
 
-### [Project Description](doc/)
+### Project Description
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2019
@@ -25,4 +25,5 @@ proj/
 └── output/
 ```
 
+### [Project Report](doc/) is saved in doc folder.
 Please see each subfolder for a README file.
