@@ -25,5 +25,7 @@ proj/
 └── output/
 ```
 
-### [Project Report](doc/ProjectReport-How_to_Write_Lyrics_Like_a_Pro.ipynb) is saved in doc folder.
+### [Project Report](doc/ProjectReport-How_to_Write_Lyrics_Like_a_Pro.html) is saved in doc folder.
 Please see each subfolder for a README file.
+
+Please see [ProjectReport-How_to_Write_Lyrics_Like_a_Pro.html](https://htmlpreview.github.io/?https://github.com/TZstatsADS/fall2019-proj1--yutinggong/blob/master/doc/ProjectReport-How_to_Write_Lyrics_Like_a_Pro.html)
