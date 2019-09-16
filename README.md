@@ -14,6 +14,10 @@ Term: Fall 2019
 
 + Project summary: What topics to write about for different music genres? What words to use? How long should the song lyrics be? Not sure where to begin? The report is an exploratary data analysis of song lyrics aiming at understanding the characteristics of lyrics for different music genres. It is a step-by-step guide to teach you how to write music lyrics like a pro. Techniques used in this project are: LDA Topic Modeling, Wordcloud and tokenization.
 
+## Project Report:
+Please read [ProjectReport-How_to_Write_Lyrics_Like_a_Pro.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/TZstatsADS/fall2019-proj1--yutinggong/master/doc/ProjectReport-How_to_Write_Lyrics_Like_a_Pro.html?token=AGIHHPV4BKRX76IC547S53S5RDT52)
+
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
@@ -25,6 +29,3 @@ proj/
 └── output/
 ```
 Please see each subfolder for a README file.
-
-### Project Report:
-Please see [ProjectReport-How_to_Write_Lyrics_Like_a_Pro.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/TZstatsADS/fall2019-proj1--yutinggong/master/doc/ProjectReport-How_to_Write_Lyrics_Like_a_Pro.html?token=AGIHHPV4BKRX76IC547S53S5RDT52)
