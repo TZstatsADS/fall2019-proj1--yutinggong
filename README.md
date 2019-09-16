@@ -25,5 +25,5 @@ proj/
 └── output/
 ```
 
-### [Project Report](doc/) is saved in doc folder.
+### [Project Report](doc/Project Report - How to Write Lyrics Like a Pro.ipynb) is saved in doc folder.
 Please see each subfolder for a README file.
