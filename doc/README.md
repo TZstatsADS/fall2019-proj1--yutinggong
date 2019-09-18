@@ -1,4 +1,4 @@
-# ADS Project 1:  R Notebook on Lyrics Analysis
+# ADS Project 1:  R Notebook and Jupyter Notebook on Lyrics Analysis
 
 ### Doc folder
 
