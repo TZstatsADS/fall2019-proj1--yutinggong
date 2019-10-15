@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Projec title: How to write lyrics like a pro - an Analysis of Song Lyrics
++ Projec title: How to write lyrics - an Analysis of Song Lyrics
 + This project is conducted by Yuting Gong
 
 + Project summary: What topics to write about for different music genres? What words to use? How long should the song lyrics be? Not sure where to begin? The report is an exploratary data analysis of song lyrics aiming at understanding the characteristics of lyrics for different music genres. It is a step-by-step guide to teach you how to write music lyrics like a pro. Techniques used in this project are: LDA Topic Modeling, Wordcloud and tokenization.
